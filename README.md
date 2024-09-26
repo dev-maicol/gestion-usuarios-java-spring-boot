@@ -3,10 +3,16 @@
 ## Instalacion
 Instalacion del proyecto web
 ```
-$ git clone https://github.com/dev-maicol/gestion-usuarios-java-spring-boot
+$ git clone https://github.com/dev-maicol/gestion-usuarios-java-spring-boot.git
+```
+```
 $ cd gestion-usuarios-java-spring-boot
 ```
+## Base de datos MySql
+Descargar e importar la base de datos
+
 Abrir el proyecto y descargar las dependencias Maven
+
 ### Login
 ![image](https://github.com/user-attachments/assets/6cd12295-7abe-41d7-b6d0-fa568b9b56eb)
 ### Vista listado de usuarios
